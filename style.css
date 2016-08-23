@@ -1,20 +1,26 @@
 div.header1 {text-align: center;
-	font-size: 24px;
+	font-size: 20px;
 
 }
 
 body {
 	background-image: url("header-bg.jpg");	
 }
-
+.btn {
+  margin-top: 5px
+  padding-top: 5px;
+}
 h1, h2 { 
 	font-family: Russo One, Helvetica, Arial;
 	clear: both;
 }
-
-p, li, th, td {
+ 
+td, li, th,{ font-family: Helvetica, Arial;
+	font-size: 12px
+}
+p {
 	font-family: Helvetica, Arial;
-	font-size: 18px;
+	font-size: 14px
 }
 
 a:link, a:visited {
@@ -52,7 +58,7 @@ ul.nav a:hover, ul.nav a:active {
 }
 
 img {
-	margin: 25px 25px 25px 25px;
+	margin: 20px 20px 20px 20px;
 	float: left;
 	/*border-top-left-radius: 	*/
 }
