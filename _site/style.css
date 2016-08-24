@@ -1,0 +1,80 @@
+div.header1 {text-align: center;
+	font-size: 20px;
+
+}
+
+body {
+	background-image: url("header-bg.jpg");	
+}
+.btn {
+  margin-top: 5px
+  padding-top: 5px;
+}
+h1, h2 { 
+	font-family: Russo One, Helvetica, Arial;
+	clear: both;
+}
+ 
+td, li, th,{ font-family: Helvetica, Arial;
+	font-size: 12px
+}
+p {
+	font-family: Helvetica, Arial;
+	font-size: 14px
+}
+
+a:link, a:visited {
+	color: #a00;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: red;
+}
+
+ul.nav  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+ul.nav li {
+	float: left;
+	text-align: center;
+}
+
+ul.nav a:link, ul.nav a:visited {
+	display: block;
+	width: 134px;
+	color: white;
+	background-color: #aa0000;
+	padding: 3px;
+	text-decoration: none;
+}
+
+ul.nav a:hover, ul.nav a:active {
+	background-color: red;
+}
+
+img {
+	margin: 20px 20px 20px 20px;
+	float: left;
+	/*border-top-left-radius: 	*/
+}
+
+div.container {
+	width: 700px;
+	margin: auto;
+	background-color: #ebebd6;
+}
+
+table {
+	width: 100%;
+}
+
+table td {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
