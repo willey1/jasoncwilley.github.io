@@ -1,0 +1,39 @@
+
+
+body {margin:0; padding:0; color:#555; background:#e0e0e0; font:76% "Trebuchet MS",Verdana,Tahoma,sans-serif;}
+p {margin: 0 0 16px 10px; line-height:1.4em;}
+ul {margin: 10px 100px 12px 10px; padding:25px 0 0 10px; line-height:1.3em;}
+li {padding:1px 0 1px 0; margin:0 0 2px 0px; line-height:1.3em;}
+img {margin:10px auto 16px auto; padding:1px; background:#ffffff;}
+h1 {margin: 15px 0 15px 0; padding:0; font-size:1.4em; font-weight:400; letter-spacing:-1px;}
+h2 {margin:0 0 10px 0; color:#555; font-size:1.0em; font-weight:400; letter-spacing:-1px; border-bottom:25px solid #eee;}
+a {color:#d85d5d; font-weight:bold; text-decoration:none; align-content: center;}
+a hover {color:#222; text-decoration:underline; margin-left: 100px;}
+ul.horizontal{
+margin:25px 25px 25px 25px; padding-top: 15px;
+padding:0;
+}
+ul.horizontal li{
+display:block;
+float:left;
+padding:0 10px;
+}
+
+#header {background: url(images/headbg1.jpg) bottom center no-repeat; display:block; height: 150px}
+#header h1 {margin:100px 0 0 2px 0; padding:75px 0 0 0; color:#555; text-align:center; font-size:4.0em; letter-spacing:2px;}
+#header h1 a {color:#555; text-decoration:none; font-weight:400;}
+#header h1 a hover {color:#555; text-decoration:underline;}
+#listb 
+#menu h1 {margin-left: 2.5em}
+#logo img {margin:5px 0 5px 0;}
+#content {margin-left: 75px}
+#contentfull {width:730px;}
+#sidebar {width:160px; margin:0 0 0 570px; color:#555;}
+#footer {background: url(images/footbg1.jpg) bottom center no-repeat; display:block; height:900px}
+#footer p {margin:0; color:#555; padding:10px 0 0 0; text-align:center;}
+#footer a {color:#555;}
+#inside 
+.menulist {list-style:none; padding:0; line-height:1.3em}
+.left {width:48%; float:left;}
+.right {width:50%; float:right;}
+.clear {clear:left;}
